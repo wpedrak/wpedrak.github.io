@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Open doors' project"
-date:   2019-06-15 20:53:04 +0100
+date:   2020-04-24 15:00:00 +0200
 ---
 
 Feel free to check out access system called [Open doors](https://github.com/ksiuwr/projekt_drzwi_otwarte) that we did (with [@ksiuwr](https://github.com/ksiuwr)).
