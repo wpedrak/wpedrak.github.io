@@ -11,4 +11,8 @@ Your task is to collect 50 stars to save the Christmas. For every year there is 
 * [2018](https://github.com/wpedrak/advent_of_code_2018)
 * [2017](https://github.com/wpedrak/advent_of_code_2017)
 * [2016](https://github.com/wpedrak/advent_of_code_2016)
-* [2015](https://github.com/wpedrak/advent_of_code_2015) <-- in progress
+* [2015](https://github.com/wpedrak/advent_of_code_2015)
+
+EDIT: [2020-05-07]
+
+I've finished the last one as well (2015). Full solutions on Github repos linked above.
