@@ -4,3 +4,4 @@
 
 layout: home
 ---
+There will be some fun, short and easy to play game below (once I'll find some time to do it).
