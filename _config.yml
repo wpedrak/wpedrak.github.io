@@ -21,7 +21,7 @@
 title: wpedrak
 email: woj123 at some popular google-driven email service
 description: >- # this means to ignore newlines until "baseurl:"
-  Casual developer that worked in python, java, scala, php and go. Lover of puzzles and escape rooms.
+  Casual developer. Lover of puzzles and escape rooms. So far I've worked with python, java, scala, php and go (had fun with all of them).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wpedrak
